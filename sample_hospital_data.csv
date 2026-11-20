@@ -1,0 +1,206 @@
+Patient_ID,Admission_Date,Hospital_Name,Age,Gender,Medical_Condition,Admission_Type,Stay_Days,Treatment_Cost
+P1000,2025-07-06 13:44:55.477386936,Metro Health,52.0,Female,Hypertension,Elective,3,12456.74
+P1001,2025-11-24 10:00:36.180904524,Metro Health,23.0,Female,Cardiac Arrest,Urgent,4,76973.11
+P1002,2025-06-18 06:45:13.567839196,Metro Health,8.0,Male,Diabetes,Elective,1,91542.21
+P1003,2025-01-26 14:35:34.673366834,City Care Hospital,39.0,Female,Asthma,Emergency,8,53465.36
+P1004,2025-07-13 21:20:48.241206030,Metro Health,,Female,Viral Fever,Urgent,13,116782.27
+P1005,2025-05-10 20:51:51.557788946,City Care Hospital,53.0,Female,Hypertension,Emergency,7,20456.75
+P1006,2025-12-10 21:06:19.899497488,Apollo General,21.0,Female,Diabetes,Elective,7,
+P1007,2025-02-06 13:59:23.819095477,City Care Hospital,48.0,Male,Hypertension,Elective,3,110587.37
+P1008,2025-07-06 13:44:55.477386936,Apollo General,34.0,Male,Hypertension,Elective,10,76846.24
+P1009,2025-08-10 07:50:21.105527640,Metro Health,50.0,Female,Cardiac Arrest,Emergency,10,104818.35
+P1010,2025-05-16 08:33:46.130653266,Metro Health,10.0,Female,Cardiac Arrest,Emergency,3,68049.96
+P1011,2025-06-09 03:15:22.613065328,Apollo General,41.0,Male,Viral Fever,Emergency,14,40728.29
+P1012,2025-08-01 04:20:30.150753768,Sunrise Medical Center,28.0,Female,Asthma,Emergency,2,123769.84
+P1013,2025-07-01 02:03:00.904522614,Apollo General,50.0,Female,Hypertension,Elective,12,120915.3
+P1014,2025-07-08 09:38:53.668341710,Sunrise Medical Center,57.0,Male,Diabetes,Elective,1,105730.99
+P1015,2025-10-04 04:49:26.834170856,City Care Hospital,64.0,Female,Fracture,Urgent,7,44461.04
+P1016,2025-08-26 18:56:04.824120604,City Care Hospital,67.0,Other,Hypertension,Urgent,7,90583.45
+P1017,2025-09-30 13:01:30.452261308,City Care Hospital,36.0,Other,Hypertension,Emergency,12,57341.22
+P1018,2025-04-06 02:46:25.929648242,Metro Health,,Male,Viral Fever,Elective,2,
+P1019,2025-01-02 19:53:58.190954773,City Care Hospital,71.0,,Asthma,Elective,7,138010.47
+P1020,2025-06-09 03:15:22.613065328,Sunrise Medical Center,22.0,Female,Fracture,Elective,13,24838.7
+P1021,2025-10-15 04:13:15.979899500,City Care Hospital,29.0,Female,Cardiac Arrest,Urgent,8,142784.42
+P1022,2025-03-09 16:16:53.065326633,Apollo General,58.0,Female,Cardiac Arrest,Urgent,1,69670.84
+P1023,2025-08-24 23:02:06.633165828,Apollo General,62.0,Female,Diabetes,Elective,9,31844.27
+P1024,2025-12-16 08:48:14.472361812,Metro Health,71.0,Female,Fracture,Elective,7,83575.64
+P1025,2025-12-09 01:12:21.708542716,Apollo General,50.0,Female,Cardiac Arrest,Elective,3,131577.15
+P1026,2025-02-06 13:59:23.819095477,Sunrise Medical Center,28.0,Female,Diabetes,Urgent,8,111172.61
+P1027,2025-10-20 15:55:10.552763820,City Care Hospital,,Male,Asthma,Elective,7,121951.37
+P1028,2025-04-15 06:16:16.884422110,Metro Health,51.0,Male,Diabetes,Elective,11,100523.59
+P1029,2025-02-08 09:53:22.010050251,City Care Hospital,27.0,Male,Cardiac Arrest,Emergency,13,
+P1030,2025-06-10 23:09:20.804020100,City Care Hospital,70.0,Female,Viral Fever,Emergency,8,128133.37
+P1031,2025-03-29 19:10:33.165829146,Sunrise Medical Center,31.0,Male,Viral Fever,Urgent,6,41201.86
+P1032,2025-04-17 02:10:15.075376884,Apollo General,6.0,Female,Viral Fever,Elective,9,75966.62
+P1033,2025-11-06 03:00:54.271356784,Apollo General,21.0,Male,Cardiac Arrest,Elective,5,37075.37
+P1034,2025-12-09 01:12:21.708542716,City Care Hospital,37.0,Female,Viral Fever,Emergency,3,148211.86
+P1035,2025-01-26 14:35:34.673366834,Metro Health,13.0,Female,Fracture,Urgent,3,141888.6
+P1036,2025-12-12 17:00:18.090452264,Apollo General,47.0,Female,Asthma,Emergency,1,10716.89
+P1037,2025-12-12 17:00:18.090452264,Metro Health,52.0,Male,Diabetes,Emergency,12,107308.4
+P1038,2025-11-15 06:30:45.226130656,Apollo General,43.0,Female,Diabetes,Emergency,8,139161.01
+P1039,2025-12-12 17:00:18.090452264,Metro Health,46.0,Female,Cardiac Arrest,Emergency,2,31183.43
+P1040,2025-04-02 10:58:29.547738694,Sunrise Medical Center,30.0,,Viral Fever,Elective,3,87352.06
+P1041,2025-07-15 17:14:46.432160804,Metro Health,54.0,Female,Viral Fever,Elective,8,137745.8
+P1042,2025-04-09 18:34:22.311557789,Sunrise Medical Center,29.0,Female,Hypertension,Emergency,14,9922.17
+P1043,2025-04-26 05:40:06.030150754,Sunrise Medical Center,28.0,Male,Asthma,Urgent,8,106125.94
+P1044,2025-08-26 18:56:04.824120604,Metro Health,17.0,Female,Fracture,Urgent,14,48115.61
+P1045,2025-04-02 10:58:29.547738694,Sunrise Medical Center,64.0,Male,Diabetes,Urgent,11,139037.45
+P1046,2025-09-03 02:31:57.587939700,City Care Hospital,11.0,Male,Hypertension,Urgent,4,145803.45
+P1047,2025-02-06 13:59:23.819095477,Sunrise Medical Center,61.0,Male,Hypertension,Emergency,4,
+P1048,2025-05-12 16:45:49.748743720,Apollo General,40.0,Male,Cardiac Arrest,Elective,5,73761.06
+P1049,2025-10-31 15:18:59.698492464,Metro Health,49.0,Male,Diabetes,Urgent,6,129996.18
+P1050,2025-02-01 02:17:29.246231156,City Care Hospital,24.0,Female,Cardiac Arrest,Emergency,5,127459.66
+P1051,2025-08-28 14:50:03.015075376,Metro Health,69.0,Female,Fracture,Urgent,14,51269.57
+P1052,2025-06-10 23:09:20.804020100,Apollo General,12.0,Female,Hypertension,Urgent,7,125192.74
+P1053,2025-04-18 22:04:13.266331658,Apollo General,20.0,Female,Hypertension,Emergency,2,
+P1054,2025-01-24 18:41:36.482412060,Apollo General,18.0,Female,Asthma,Elective,7,91459.13
+P1055,2025-01-15 15:11:45.527638191,Sunrise Medical Center,80.0,Female,Fracture,Elective,10,38351.28
+P1056,2025-06-12 19:03:18.994974874,Sunrise Medical Center,19.0,Male,Hypertension,Emergency,7,22482.2
+P1057,2025-04-06 02:46:25.929648242,Metro Health,70.0,Male,Fracture,Elective,1,16158.21
+P1058,2025-08-24 23:02:06.633165828,Metro Health,36.0,Male,Diabetes,Emergency,7,105961.87
+P1059,2025-06-01 19:39:29.849246232,City Care Hospital,67.0,Male,Viral Fever,Emergency,5,54281.87
+P1060,2025-06-16 10:51:15.376884422,City Care Hospital,55.0,Female,Hypertension,Emergency,3,110091.18
+P1061,2025-07-21 04:56:41.005025126,Metro Health,29.0,Male,Asthma,Elective,13,14476.67
+P1062,2025-12-09 01:12:21.708542716,Sunrise Medical Center,62.0,Female,Diabetes,Emergency,3,50717.1
+P1063,2025-12-29 04:06:01.809045228,Apollo General,67.0,Other,Fracture,Urgent,4,83226.24
+P1064,2025-11-09 18:48:50.653266332,Metro Health,66.0,Female,Cardiac Arrest,Elective,13,119654.86
+P1065,2025-01-13 19:17:47.336683417,City Care Hospital,26.0,Male,Diabetes,Elective,12,51219.11
+P1066,2025-11-15 06:30:45.226130656,Sunrise Medical Center,62.0,Male,Hypertension,Elective,2,95754.25
+P1067,2025-03-04 04:34:58.492462312,Metro Health,62.0,Female,Fracture,Elective,2,133466.77
+P1068,2025-05-27 07:57:35.276381910,Metro Health,53.0,Female,Viral Fever,Urgent,1,94300.16
+P1069,2025-10-26 03:37:05.125628140,Sunrise Medical Center,56.0,Male,Diabetes,Elective,5,38779.12
+P1070,2025-03-31 15:04:31.356783920,Metro Health,46.0,Female,Hypertension,Elective,4,8538.11
+P1071,2025-07-08 09:38:53.668341710,Sunrise Medical Center,74.0,Male,Asthma,Emergency,11,131164.34
+P1072,2025-08-28 14:50:03.015075376,Apollo General,19.0,Male,Cardiac Arrest,Elective,10,8084.06
+P1073,2025-01-02 19:53:58.190954773,Sunrise Medical Center,58.0,Male,Fracture,Urgent,2,131831.74
+P1074,2025-09-01 06:37:59.396984924,Sunrise Medical Center,64.0,Male,Diabetes,Urgent,3,81695.88
+P1075,2025-04-07 22:40:24.120603015,Sunrise Medical Center,12.0,Other,Diabetes,Urgent,7,141164.82
+P1076,2025-07-12 01:26:50.050251256,Metro Health,57.0,Female,Viral Fever,Urgent,7,120823.57
+P1077,2025-01-06 11:41:54.572864321,Metro Health,64.0,Male,Viral Fever,Elective,12,149700.45
+P1078,2025-04-07 22:40:24.120603015,Sunrise Medical Center,9.0,Female,Asthma,Elective,4,55853.21
+P1079,2025-12-14 12:54:16.281407036,Metro Health,72.0,Female,Cardiac Arrest,Urgent,5,116242.3
+P1080,2025-09-23 05:25:37.688442212,City Care Hospital,10.0,Female,Asthma,Urgent,5,63279.98
+P1081,2025-03-20 15:40:42.211055277,City Care Hospital,51.0,Male,Hypertension,Elective,6,74581.96
+P1082,2025-10-22 11:49:08.743718592,Metro Health,59.0,Male,Hypertension,Urgent,14,95988.29
+P1083,2025-12-12 17:00:18.090452264,Metro Health,44.0,Male,Asthma,Emergency,9,131683.18
+P1084,2025-01-24 18:41:36.482412060,Sunrise Medical Center,56.0,Male,Cardiac Arrest,Urgent,2,147692.1
+P1085,2025-06-21 22:33:09.949748744,Apollo General,20.0,Male,Asthma,Urgent,5,116399.65
+P1086,2025-03-27 23:16:34.974874372,Metro Health,17.0,Female,Cardiac Arrest,Emergency,12,65576.18
+P1087,2025-01-26 14:35:34.673366834,City Care Hospital,34.0,Male,Cardiac Arrest,Emergency,3,66096.77
+P1088,2025-12-31 00:00:00.000000000,Sunrise Medical Center,23.0,Male,Fracture,Elective,4,111949.43
+P1089,2025-12-12 17:00:18.090452264,Metro Health,21.0,Male,Cardiac Arrest,Elective,10,39622.69
+P1090,2025-03-13 08:04:49.447236181,City Care Hospital,67.0,,Viral Fever,Emergency,6,21018.75
+P1091,2025-05-29 03:51:33.467336684,City Care Hospital,23.0,Male,Cardiac Arrest,Emergency,12,
+P1092,2025-07-21 04:56:41.005025126,Apollo General,62.0,Male,Cardiac Arrest,Elective,8,46649.65
+P1093,2025-04-06 02:46:25.929648242,Sunrise Medical Center,59.0,Male,Cardiac Arrest,Urgent,1,47964.68
+P1094,2025-02-12 01:41:18.391959799,Sunrise Medical Center,66.0,Male,Hypertension,Emergency,10,38873.12
+P1095,2025-10-07 20:37:23.216080404,Apollo General,27.0,Male,Viral Fever,Elective,14,11103.51
+P1096,2025-12-09 01:12:21.708542716,Apollo General,13.0,Female,Viral Fever,Urgent,8,7591.72
+P1097,2025-08-13 23:38:17.487437188,Sunrise Medical Center,16.0,Male,Asthma,Emergency,11,148219.75
+P1098,2025-03-15 03:58:47.638190955,Sunrise Medical Center,5.0,Male,Fracture,Urgent,14,67027.1
+P1099,2025-10-13 08:19:17.788944724,Metro Health,62.0,,Cardiac Arrest,Elective,7,60727.36
+P1100,2025-01-26 14:35:34.673366834,Metro Health,5.0,Female,Diabetes,Emergency,1,103548.86
+P1101,2025-03-22 11:34:40.402010050,Apollo General,38.0,Male,Fracture,Urgent,2,36646.81
+P1102,2025-04-28 01:34:04.221105528,Metro Health,,Female,Fracture,Emergency,3,142744.37
+P1103,2025-06-10 23:09:20.804020100,City Care Hospital,,Female,Viral Fever,Urgent,1,119020.03
+P1104,2025-05-09 00:57:53.366834172,Metro Health,20.0,Male,Fracture,Elective,14,17964.6
+P1105,2025-01-15 15:11:45.527638191,Metro Health,65.0,Female,Cardiac Arrest,Elective,9,
+P1106,2025-06-09 03:15:22.613065328,City Care Hospital,68.0,Female,Cardiac Arrest,Emergency,8,132472.15
+P1107,2025-08-23 03:08:08.442211056,Apollo General,67.0,Male,Hypertension,Urgent,2,141986.14
+P1108,2025-09-04 22:25:55.778894472,City Care Hospital,73.0,Male,Cardiac Arrest,Emergency,13,72773.22
+P1109,2025-04-24 09:46:07.839195980,Metro Health,,Female,Cardiac Arrest,Emergency,9,93944.65
+P1110,2025-09-10 10:07:50.351758796,Apollo General,71.0,Female,Viral Fever,Urgent,7,29219.92
+P1111,2025-05-27 07:57:35.276381910,Metro Health,80.0,Other,Cardiac Arrest,Urgent,9,148719.45
+P1112,2025-09-04 22:25:55.778894472,City Care Hospital,30.0,Male,Hypertension,Urgent,6,38592.4
+P1113,2025-10-24 07:43:06.934673368,City Care Hospital,20.0,,Diabetes,Elective,6,141696.11
+P1114,2025-10-24 07:43:06.934673368,Metro Health,55.0,Male,Viral Fever,Emergency,11,99198.76
+P1115,2025-02-28 12:47:02.110552764,Sunrise Medical Center,61.0,Female,Diabetes,Emergency,14,93121.84
+P1116,2025-08-12 03:44:19.296482412,Sunrise Medical Center,33.0,Female,Viral Fever,Elective,4,79339.83
+P1117,2025-01-08 07:35:52.763819095,City Care Hospital,82.0,Male,Asthma,Urgent,10,38447.12
+P1118,2025-03-15 03:58:47.638190955,City Care Hospital,73.0,Male,Fracture,Elective,10,30596.56
+P1119,2025-02-19 09:17:11.155778894,Sunrise Medical Center,51.0,Male,Asthma,Elective,13,36970.5
+P1120,2025-09-03 02:31:57.587939700,Sunrise Medical Center,66.0,Male,Cardiac Arrest,Elective,13,32033.55
+P1121,2025-05-10 20:51:51.557788946,Metro Health,73.0,Male,Diabetes,Emergency,2,118039.75
+P1122,2025-01-21 02:53:40.100502512,Metro Health,80.0,Female,Cardiac Arrest,Elective,7,55768.16
+P1123,2025-10-22 11:49:08.743718592,Sunrise Medical Center,20.0,Female,Fracture,Emergency,5,13387.19
+P1124,2025-02-28 12:47:02.110552764,Metro Health,52.0,Female,Viral Fever,Emergency,11,145519.88
+P1125,2025-03-27 23:16:34.974874372,Metro Health,43.0,Female,Fracture,Emergency,6,133148.95
+P1126,2025-10-02 08:55:28.643216080,Apollo General,37.0,Female,Hypertension,Urgent,2,139524.08
+P1127,2025-04-22 13:52:09.648241206,Metro Health,27.0,Female,Fracture,Emergency,5,149261.63
+P1128,2025-03-07 20:22:54.874371860,City Care Hospital,14.0,Female,Hypertension,Emergency,10,30214.81
+P1129,2025-06-29 06:09:02.713567840,Metro Health,73.0,Male,Fracture,Urgent,4,62455.09
+P1130,2025-11-09 18:48:50.653266332,Metro Health,38.0,Male,Hypertension,Emergency,9,114944.58
+P1131,2025-07-08 09:38:53.668341710,Sunrise Medical Center,56.0,Male,Diabetes,Elective,6,105922.99
+P1132,2025-03-04 04:34:58.492462312,City Care Hospital,14.0,Male,Cardiac Arrest,Elective,2,27314.91
+P1133,2025-12-18 04:42:12.663316584,Metro Health,23.0,Male,Cardiac Arrest,Emergency,1,123295.8
+P1134,2025-07-02 21:56:59.095477388,Metro Health,62.0,Male,Asthma,Urgent,5,37543.88
+P1135,2025-11-15 06:30:45.226130656,Apollo General,5.0,Female,Cardiac Arrest,Elective,9,37453.55
+P1136,2025-08-26 18:56:04.824120604,Metro Health,73.0,Female,Viral Fever,Urgent,6,
+P1137,2025-01-01 00:00:00.000000000,Metro Health,8.0,Male,Fracture,Urgent,10,90976.29
+P1138,2025-01-08 07:35:52.763819095,Apollo General,20.0,Male,Asthma,Elective,12,89112.5
+P1139,2025-09-15 21:49:44.924623116,Sunrise Medical Center,,Male,Viral Fever,Urgent,7,18265.59
+P1140,2025-07-06 13:44:55.477386936,Metro Health,84.0,Female,Viral Fever,Elective,5,132231.83
+P1141,2025-02-17 13:23:12.964824121,Apollo General,6.0,Male,Hypertension,Urgent,10,43512.01
+P1142,2025-09-06 18:19:53.969849248,City Care Hospital,36.0,Female,Cardiac Arrest,Elective,6,23779.66
+P1143,2025-01-26 14:35:34.673366834,Sunrise Medical Center,,Male,Diabetes,Emergency,5,133868.47
+P1144,2025-06-12 19:03:18.994974874,City Care Hospital,16.0,Female,Diabetes,Elective,11,143569.47
+P1145,2025-03-16 23:52:45.829145729,City Care Hospital,54.0,Female,Asthma,Elective,9,130008.5
+P1146,2025-08-13 23:38:17.487437188,Apollo General,39.0,Male,Diabetes,Elective,6,122379.83
+P1147,2025-11-22 14:06:37.989949748,Metro Health,37.0,Female,Fracture,Elective,11,100010.09
+P1148,2025-04-24 09:46:07.839195980,Apollo General,37.0,Female,Diabetes,Urgent,8,84874.32
+P1149,2025-06-23 18:27:08.140703518,Apollo General,65.0,Female,Asthma,Emergency,2,17613.08
+P1150,2025-04-04 06:52:27.738693468,Apollo General,55.0,Male,Diabetes,Elective,12,64225.72
+P1151,2025-06-23 18:27:08.140703518,Apollo General,47.0,Female,Fracture,Urgent,13,59039.83
+P1152,2025-08-28 14:50:03.015075376,Sunrise Medical Center,16.0,Female,Hypertension,Emergency,9,42664.3
+P1153,2025-10-02 08:55:28.643216080,Metro Health,71.0,Female,Asthma,Emergency,5,109895.92
+P1154,2025-09-17 17:43:43.115577892,City Care Hospital,69.0,Female,Hypertension,Emergency,7,76901.98
+P1155,2025-11-07 22:54:52.462311560,City Care Hospital,37.0,Female,Hypertension,Emergency,10,16751.7
+P1156,2025-02-21 05:11:09.346733668,Metro Health,44.0,Other,Hypertension,Elective,13,36926.56
+P1157,2025-03-06 00:28:56.683417086,City Care Hospital,78.0,Female,Viral Fever,Elective,1,104072.52
+P1158,2025-01-22 22:47:38.291457286,Metro Health,47.0,Female,Cardiac Arrest,Urgent,10,16038.97
+P1159,2025-10-18 20:01:12.361809048,City Care Hospital,48.0,Female,Viral Fever,Urgent,5,128425.0
+P1160,2025-05-09 00:57:53.366834172,Apollo General,33.0,Male,Cardiac Arrest,Urgent,12,76796.25
+P1161,2025-12-07 05:18:23.517587940,City Care Hospital,,Female,Hypertension,Emergency,14,74685.05
+P1162,2025-06-05 11:27:26.231155780,Metro Health,16.0,Female,Asthma,Emergency,10,90899.13
+P1163,2025-02-19 09:17:11.155778894,Metro Health,50.0,Male,Cardiac Arrest,Elective,14,124578.74
+P1164,2025-04-29 21:28:02.412060302,Metro Health,6.0,Female,Fracture,Emergency,2,55432.34
+P1165,2025-11-06 03:00:54.271356784,Metro Health,39.0,Male,Fracture,Emergency,12,103312.34
+P1166,2025-03-22 11:34:40.402010050,Metro Health,12.0,Female,Diabetes,Emergency,6,87031.13
+P1167,2025-04-22 13:52:09.648241206,Sunrise Medical Center,30.0,Female,Cardiac Arrest,Urgent,11,43719.1
+P1168,2025-12-03 13:30:27.135678392,Sunrise Medical Center,,Female,Asthma,Urgent,1,132401.35
+P1169,2025-09-01 06:37:59.396984924,City Care Hospital,38.0,Male,Viral Fever,Elective,3,120626.77
+P1170,2025-02-19 09:17:11.155778894,Metro Health,11.0,Female,Hypertension,Emergency,5,100475.52
+P1171,2025-02-19 09:17:11.155778894,City Care Hospital,72.0,Female,Diabetes,Emergency,4,128334.35
+P1172,2025-07-15 17:14:46.432160804,Metro Health,62.0,Male,Fracture,Elective,3,130757.66
+P1173,2025-03-20 15:40:42.211055277,Metro Health,79.0,Male,Viral Fever,Emergency,10,107712.63
+P1174,2025-06-01 19:39:29.849246232,Sunrise Medical Center,33.0,Female,Viral Fever,Emergency,13,126366.93
+P1175,2025-02-23 01:05:07.537688442,Sunrise Medical Center,40.0,Male,Hypertension,Urgent,5,106133.36
+P1176,2025-12-12 17:00:18.090452264,Apollo General,25.0,Male,Cardiac Arrest,Elective,11,103620.41
+P1177,2025-05-16 08:33:46.130653266,Sunrise Medical Center,40.0,Female,Fracture,Elective,8,94698.65
+P1178,2025-08-21 07:14:10.251256284,Apollo General,14.0,Male,Asthma,Elective,11,114143.91
+P1179,2025-06-16 10:51:15.376884422,Apollo General,77.0,Female,Viral Fever,Elective,4,27997.74
+P1180,2025-12-12 17:00:18.090452264,Apollo General,,Male,Hypertension,Urgent,1,132726.26
+P1181,2025-08-23 03:08:08.442211056,Apollo General,68.0,Female,Asthma,Urgent,11,131417.31
+P1182,2025-08-08 11:56:22.914572864,Apollo General,53.0,Male,Cardiac Arrest,Emergency,7,9240.86
+P1183,2025-02-17 13:23:12.964824121,City Care Hospital,40.0,Female,Fracture,Emergency,8,124743.43
+P1184,2025-12-12 17:00:18.090452264,Sunrise Medical Center,28.0,Male,Cardiac Arrest,Emergency,3,23686.13
+P1185,2025-08-08 11:56:22.914572864,Apollo General,27.0,,Viral Fever,Emergency,6,53592.23
+P1186,2025-07-30 08:26:31.959798996,Metro Health,66.0,Male,Asthma,Urgent,2,112808.7
+P1187,2025-01-04 15:47:56.381909547,Sunrise Medical Center,41.0,Female,Asthma,Elective,7,28310.18
+P1188,2025-07-06 13:44:55.477386936,Sunrise Medical Center,16.0,Female,Asthma,Urgent,8,123605.22
+P1189,2025-12-27 08:12:03.618090452,Apollo General,,Other,Viral Fever,Emergency,6,125659.46
+P1190,2025-12-31 00:00:00.000000000,City Care Hospital,17.0,Female,Viral Fever,Urgent,6,78582.82
+P1191,2025-10-09 16:31:21.407035176,Apollo General,27.0,Male,Cardiac Arrest,Elective,5,5925.95
+P1192,2025-09-06 18:19:53.969849248,City Care Hospital,34.0,Female,Diabetes,Elective,8,46620.53
+P1193,2025-04-22 13:52:09.648241206,Metro Health,21.0,Male,Cardiac Arrest,Urgent,1,94454.4
+P1194,2025-10-27 23:31:03.316582916,Sunrise Medical Center,66.0,Male,Fracture,Urgent,10,147272.0
+P1195,2025-04-02 10:58:29.547738694,Metro Health,17.0,Male,Hypertension,Urgent,4,96612.96
+P1196,2025-11-09 18:48:50.653266332,City Care Hospital,63.0,Female,Asthma,Emergency,4,42671.52
+P1197,2025-10-04 04:49:26.834170856,City Care Hospital,23.0,Female,Diabetes,Urgent,3,96930.83
+P1198,2025-04-17 02:10:15.075376884,Metro Health,53.0,Male,Hypertension,Urgent,3,83297.88
+P1199,2025-08-03 00:14:28.341708544,City Care Hospital,16.0,Female,Diabetes,Urgent,4,118077.58
+P1000,2025-07-06 13:44:55.477386936,Metro Health,52.0,Female,Hypertension,Elective,3,12456.74
+P1001,2025-11-24 10:00:36.180904524,Metro Health,23.0,Female,Cardiac Arrest,Urgent,4,76973.11
+P1002,2025-06-18 06:45:13.567839196,Metro Health,8.0,Male,Diabetes,Elective,1,91542.21
+P1003,2025-01-26 14:35:34.673366834,City Care Hospital,39.0,Female,Asthma,Emergency,8,53465.36
+P1004,2025-07-13 21:20:48.241206030,Metro Health,,Female,Viral Fever,Urgent,13,116782.27

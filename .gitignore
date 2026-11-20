@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.bak
+fix_caremetrics_navigation.py
+app.py.zip
